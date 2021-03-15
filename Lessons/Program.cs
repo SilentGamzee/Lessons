@@ -28,7 +28,6 @@ namespace Lessons
             bool b_x = false, b_y = true;
             var b_sumXY = b_x == b_y;
             
-
             /*
             //var sum = Program.int_1 + Program.int_2;
             var intStr = "INT = ";
