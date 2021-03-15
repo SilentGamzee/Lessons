@@ -1,0 +1,7 @@
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\obj\Debug\Lessons.csprojAssemblyReference.cache
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\bin\Debug\Lessons.exe.config
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\bin\Debug\Lessons.exe
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\bin\Debug\Lessons.pdb
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\obj\Debug\Lessons.exe
+D:\Moxem\_IntellijProjects\Lessons_\Lessons\Lessons\obj\Debug\Lessons.pdb
