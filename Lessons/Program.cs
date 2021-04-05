@@ -16,6 +16,7 @@ namespace Lessons
         //Entry point - точка входа
         static void Main(string[] args)
         {
+            //Lesson 1
             int x = 2, y = 3;
             var sumXY = x + y;
 
@@ -24,19 +25,15 @@ namespace Lessons
 
             string s_x = "start_", s_y = "end_";
             var s_sumXY = s_x + s_y;
+            Console.WriteLine("s_sumXY: "+ s_sumXY);
 
             bool b_x = false, b_y = true;
             var b_sumXY = b_x == b_y;
-            
-            /*
-            //var sum = Program.int_1 + Program.int_2;
-            var intStr = "INT = ";
-            var intSum = intStr + int_1;
-            Console.WriteLine(intSum);
-            Console.WriteLine(f);
-            Console.WriteLine(t);
-            Console.WriteLine(boolean);
-            */
+
+            //Lesson 2
+            Lesson_2 lesson_2 = new Lesson_2();
+            lesson_2.Do();
+
             Console.ReadLine();
         }
     }
